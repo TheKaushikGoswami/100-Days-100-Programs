@@ -4,11 +4,11 @@ import cv2
 
 # importing watermark that we are going to use & python file and image in same folder
 
-logo = cv2.imread("./Programs/Day 3/assets/watermark.png")
+logo = cv2.imread("./Programs/Day 3 - Watermark Creator/assets/watermark.png")
 
 # importing image on which we are going to apply watermark
 
-img = cv2.imread("./Programs/Day 3/assets/image.png")
+img = cv2.imread("./Programs/Day 3 - Watermark Creator/assets/image.png")
 
 
 # height and width of the watermark

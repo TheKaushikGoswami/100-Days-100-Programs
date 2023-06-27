@@ -33,7 +33,7 @@ A simple Notepad program built with Python and Tkinter.
 2. Navigate to the project directory:
 
    ```bash
-   cd 100-Days-100-Programs/Programs/Day 1
+   cd 100-Days-100-Programs/Programs/Day 1 - Notepad
    ```
 3. Run the program:
 
