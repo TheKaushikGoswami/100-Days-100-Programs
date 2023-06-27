@@ -38,10 +38,11 @@ pip install opencv-python
 
 ## Usage
 
-Provide the paths to the watermark image and the base image in the designated fields.
-Run the program to apply the watermark on the base image and generate the final image.
-Adjust the position and transparency of the watermark according to your preferences.
-Save the final image with the watermark embedded.
+- Provide the paths to the watermark image and the base image in the designated fields.
+- Run the program to apply the watermark on the base image and generate the final image.
+- Adjust the position and transparency of the watermark according to your preferences.
+- Save the final image with the watermark embedded.
+
 Please note that providing valid paths to both the watermark image and the base image is essential for the Watermark Creator to function correctly.
 
 ## Contributing
@@ -53,7 +54,7 @@ Submit a pull request, describing your modifications and their benefits.
 
 ## License
 
-This project is licensed under the MIT License. For more information, see the [LICENSE]((https://github.com/TheKaushikGoswami/100-Days-100-Programs/blob/main/LICENSE)) file.
+This project is licensed under the MIT License. For more information, see the [LICENSE](https://github.com/TheKaushikGoswami/100-Days-100-Programs/blob/main/LICENSE) file.
 
 ## Author
 

@@ -21,26 +21,39 @@ The purpose of this challenge is to enhance my programming skills, explore diffe
 A quick look at the folder structure of this project.
 
     .
+    ├── assets
+    |   └───banner.png
+    |
     ├── Programs
-    │   ├───Day 1 - Notepad
-    │   |   ├───screenshots
-    |   |   |   └───notepad.png
-    |   |   ├───main.py
-    |   |   └───README.md
-    |   ├───Day 2 - GUI Stopwatch
-    │   |   ├───screenshots
-    |   |   |   stopwatch.png
-    |   |   ├───main.py
-    |   |   └───README.md
-    │   └───Day 3 - Watermark Creator
-    |       ├───assets
-    |       |   ├───image.png
-    |       |   └───watermark.png
-    |       ├───screenshots
-    |       |   └───watermark-creator.png
-    |       ├───final_image.jpg
-    |       ├───main.py
-    |       └───README.md
+    │   ├─── Day 1 - Notepad
+    │   |    ├─── screenshots
+    |   |    |    └─── notepad.png
+    |   |    ├─── main.py
+    |   |    └─── README.md
+    │   |
+    |   ├─── Day 2 - GUI Stopwatch
+    │   |    ├─── screenshots
+    |   |    |    └─── stopwatch.png
+    |   |    ├─── main.py
+    |   |    └─── README.md
+    │   |
+    │   ├─── Day 3 - Watermark Creator
+    |   |    ├─── assets
+    |   |    |    ├─── image.png
+    |   |    |    └─── watermark.png
+    |   |    ├─── screenshots
+    |   |    |    └─── watermark-creator.png
+    |   |    ├─── final_image.jpg
+    |   |    ├─── main.py
+    |   |    └─── README.md
+    |   |
+    │   └─── Day 4 - Snake Game
+    |        ├─── screenshots
+    |        |    ├─── gameplay.png
+    |        |    └─── gameover.png
+    |        ├─── main.py
+    |        └─── README.md
+    |
     ├── LICENSE
     └── README.md
 
