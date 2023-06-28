@@ -47,11 +47,19 @@ A quick look at the folder structure of this project.
     |   |    ├─── main.py
     |   |    └─── README.md
     |   |
-    │   └─── Day 4 - Snake Game
+    │   ├─── Day 4 - Snake Game
+    |   |    ├─── screenshots
+    |   |    |    ├─── gameplay.png
+    |   |    |    └─── gameover.png
+    |   |    ├─── main.py
+    |   |    └─── README.md
+    |   |
+    |   └─── Day 5 - Calculator
     |        ├─── screenshots
-    |        |    ├─── gameplay.png
-    |        |    └─── gameover.png
-    |        ├─── main.py
+    |        |    └─── calculator.png
+    |        ├─── index.html
+    |        ├─── style.css
+    |        ├─── script.js
     |        └─── README.md
     |
     ├── LICENSE
