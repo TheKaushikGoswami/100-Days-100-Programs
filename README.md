@@ -54,9 +54,17 @@ A quick look at the folder structure of this project.
     |   |    ├─── main.py
     |   |    └─── README.md
     |   |
-    |   └─── Day 5 - Calculator
+    |   ├─── Day 5 - Calculator
+    |   |    ├─── screenshots
+    |   |    |    └─── calculator.png
+    |   |    ├─── index.html
+    |   |    ├─── style.css
+    |   |    ├─── script.js
+    |   |    └─── README.md
+    |   |
+    |   └─── Day 6 - BMI Calculator
     |        ├─── screenshots
-    |        |    └─── calculator.png
+    |        |    └─── bmi calculator.png
     |        ├─── index.html
     |        ├─── style.css
     |        ├─── script.js
