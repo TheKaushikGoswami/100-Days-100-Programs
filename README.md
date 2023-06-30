@@ -62,14 +62,18 @@ A quick look at the folder structure of this project.
     |   |    ├─── script.js
     |   |    └─── README.md
     |   |
-    |   └─── Day 6 - BMI Calculator
+    |   ├─── Day 6 - BMI Calculator
+    |   |    ├─── screenshots
+    |   |    |    └─── bmi calculator.png
+    |   |    ├─── index.html
+    |   |    ├─── style.css
+    |   |    ├─── script.js
+    |   |    └─── README.md
+    |   |
+    |   └─── Day 7 - GUI Speedtest
     |        ├─── screenshots
-    |        |    └─── bmi calculator.png
-    |        ├─── index.html
-    |        ├─── style.css
-    |        ├─── script.js
-    |        └─── README.md
-    |
+    |        |    └─── speedtest.png
+    |        └─── main.py
     ├── LICENSE
     └── README.md
 
