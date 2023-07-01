@@ -70,10 +70,18 @@ A quick look at the folder structure of this project.
     |   |    ├─── script.js
     |   |    └─── README.md
     |   |
-    |   └─── Day 7 - GUI Speedtest
+    |   ├─── Day 7 - GUI Speedtest
+    |   |    ├─── screenshots
+    |   |    |    └─── speedtest.png
+    |   |    ├─── main.py
+    |   |    └─── README.md
+    |   |
+    |   └─── Day 8 - Ping Pong Game
     |        ├─── screenshots
-    |        |    └─── speedtest.png
-    |        └─── main.py
+    |        |    └─── ping_pong.png
+    |        ├─── main.py
+    |        └─── README.md
+    |
     ├── LICENSE
     └── README.md
 
