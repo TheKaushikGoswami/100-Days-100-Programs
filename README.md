@@ -76,9 +76,15 @@ A quick look at the folder structure of this project.
     |   |    ├─── main.py
     |   |    └─── README.md
     |   |
-    |   └─── Day 8 - Ping Pong Game
+    |   ├─── Day 8 - Ping Pong Game
+    |   |    ├─── screenshots
+    |   |    |    └─── ping_pong.png
+    |   |    ├─── main.py
+    |   |    └─── README.md
+    |   |
+    |   └─── Day 9 - Wordcloud Generator
     |        ├─── screenshots
-    |        |    └─── ping_pong.png
+    |        |    └─── wordcloud.png
     |        ├─── main.py
     |        └─── README.md
     |
