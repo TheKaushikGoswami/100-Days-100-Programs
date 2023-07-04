@@ -82,10 +82,18 @@ A quick look at the folder structure of this project.
     |   |    ├─── main.py
     |   |    └─── README.md
     |   |
-    |   └─── Day 9 - Wordcloud Generator
+    |   ├─── Day 9 - Wordcloud Generator
+    |   |    ├─── screenshots
+    |   |    |    └─── wordcloud.png
+    |   |    ├─── main.py
+    |   |    └─── README.md
+    |   |
+    |   └─── Day 10 - To Do Manager
     |        ├─── screenshots
-    |        |    └─── wordcloud.png
-    |        ├─── main.py
+    |        |    └─── to_do.png
+    |        ├─── index.html
+    |        ├─── style.css
+    |        ├─── script.js
     |        └─── README.md
     |
     ├── LICENSE
