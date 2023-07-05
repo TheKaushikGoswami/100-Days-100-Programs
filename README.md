@@ -88,12 +88,18 @@ A quick look at the folder structure of this project.
     |   |    ├─── main.py
     |   |    └─── README.md
     |   |
-    |   └─── Day 10 - To Do Manager
+    |   ├─── Day 10 - To Do Manager
+    |   |    ├─── screenshots
+    |   |    |    └─── to_do.png
+    |   |    ├─── index.html
+    |   |    ├─── style.css
+    |   |    ├─── script.js
+    |   |    └─── README.md
+    |   |
+    |   └─── Day 11 - Number Guessing Game
     |        ├─── screenshots
-    |        |    └─── to_do.png
-    |        ├─── index.html
-    |        ├─── style.css
-    |        ├─── script.js
+    |        |    └─── number_guessing.png
+    |        ├─── Main.java
     |        └─── README.md
     |
     ├── LICENSE
