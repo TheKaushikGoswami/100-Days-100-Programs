@@ -96,9 +96,15 @@ A quick look at the folder structure of this project.
     |   |    ├─── script.js
     |   |    └─── README.md
     |   |
-    |   └─── Day 11 - Number Guessing Game
+    |   ├─── Day 11 - Number Guessing Game
+    |   |    ├─── screenshots
+    |   |    |    └─── number_guessing.png
+    |   |    ├─── Main.java
+    |   |    └─── README.md
+    |   |
+    |   └─── Day 12 -  Temperature Converter
     |        ├─── screenshots
-    |        |    └─── number_guessing.png
+    |        |    └─── temperature_converter.png
     |        ├─── Main.java
     |        └─── README.md
     |
