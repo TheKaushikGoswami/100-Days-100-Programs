@@ -18,8 +18,10 @@ The purpose of this challenge is to enhance my programming skills, explore diffe
 
 ## What's Inside? 
 
+<details>
+<summary>
 A quick look at the folder structure of this project.
-
+</summary>
     .
     ├── assets
     |   └───banner.png
@@ -102,14 +104,30 @@ A quick look at the folder structure of this project.
     |   |    ├─── Main.java
     |   |    └─── README.md
     |   |
-    |   └─── Day 12 -  Temperature Converter
+    |   ├─── Day 12 -  Temperature Converter
+    |   |    ├─── screenshots
+    |   |    |    └─── temperature_converter.png
+    |   |    ├─── Main.java
+    |   |    └─── README.md
+    |   |
+    |   └─── Day 13 - Flappy Bird
+    |        ├─── assets
+    |        |    ├─── greenpipe.png
+    |        |    ├─── img_45.png
+    |        |    ├─── img_46.png
+    |        |    ├─── img_47.png
+    |        |    ├─── img_48.png
+    |        |    ├─── img_49.png
+    |        |    └─── img_50.png
     |        ├─── screenshots
-    |        |    └─── temperature_converter.png
-    |        ├─── Main.java
+    |        |    └─── flappy_bird.png
+    |        ├─── main.py
     |        └─── README.md
     |
     ├── LICENSE
     └── README.md
+
+</details>
 
 Please feel free to explore these programs and provide feedback. I will continue updating this repository with new programs as I progress through the challenge. Stay tuned for more exciting projects in various programming languages!
 

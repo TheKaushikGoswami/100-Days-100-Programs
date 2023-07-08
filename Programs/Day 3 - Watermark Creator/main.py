@@ -35,7 +35,7 @@ result = cv2.addWeighted(destination, 1, logo, 0.5, 0)
 
 # displaying and saving image
 img[top_y:bottom_y, left_x:right_x] = result
-cv2.imwrite("./Programs/Day 3/final_image.jpg", img)
+cv2.imwrite("./Programs/Day 3 - Watermark Creator/final_image.jpg", img)
 cv2.imshow("Watermarked Image", img)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
