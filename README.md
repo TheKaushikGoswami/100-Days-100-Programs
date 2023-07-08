@@ -22,6 +22,7 @@ The purpose of this challenge is to enhance my programming skills, explore diffe
 <summary>
 A quick look at the folder structure of this project.
 </summary>
+
     .
     ├── assets
     |   └───banner.png
