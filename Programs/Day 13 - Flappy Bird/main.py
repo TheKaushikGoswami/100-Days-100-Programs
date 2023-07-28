@@ -80,14 +80,14 @@ screen = pygame.display.set_mode((width, height))
 pygame.display.set_caption("Flappy Bird")
 
 # setting background and base image
-back_img = pygame.image.load(r"Programs\Day 13 - Flappy Bird\assets\img_46.png")
-floor_img = pygame.image.load(r"Programs\Day 13 - Flappy Bird\assets\img_50.png")
+back_img = pygame.image.load(r"assets/img_46.png")
+floor_img = pygame.image.load(r"assets/img_50.png")
 floor_x = 0
 
 # different stages of bird
-bird_up = pygame.image.load(r"Programs\Day 13 - Flappy Bird\assets\img_47.png")
-bird_down = pygame.image.load(r"Programs\Day 13 - Flappy Bird\assets\img_48.png")
-bird_mid = pygame.image.load(r"Programs\Day 13 - Flappy Bird\assets\img_49.png")
+bird_up = pygame.image.load(r"assets/img_47.png")
+bird_down = pygame.image.load(r"assets/img_48.png")
+bird_mid = pygame.image.load(r"assets/img_49.png")
 birds = [bird_up, bird_mid, bird_down]
 bird_index = 0
 bird_flap = pygame.USEREVENT
@@ -98,7 +98,7 @@ bird_movement = 0
 gravity = 0.17
 
 # Loading pipe image
-pipe_img = pygame.image.load(r"Programs\Day 13 - Flappy Bird\assets\greenpipe.png")
+pipe_img = pygame.image.load(r"assets/greenpipe.png")
 pipe_height = [400, 350, 533, 490]
 
 # for the pipes to appear
@@ -108,7 +108,7 @@ pygame.time.set_timer(create_pipe, 1200)
 
 # Displaying game over image
 game_over = False
-over_img = pygame.image.load(r"Programs\Day 13 - Flappy Bird\assets\img_45.png").convert_alpha()
+over_img = pygame.image.load(r"assets/img_45.png").convert_alpha()
 over_rect = over_img.get_rect(center=(width // 2, height // 2))
 
 # setting variables and font for score
