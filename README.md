@@ -125,12 +125,18 @@ A quick look at the folder structure of this project.
     |   |    ├─── main.py
     |   |    └─── README.md
     |   |
-    |   └─── Day 14 - Responsive Login Form
+    |   |─── Day 14 - Responsive Login Form
+    |   |    ├─── screenshots
+    |   |    |    └─── login-form.png
+    |   |    ├─── index.html
+    |   |    ├─── style.css
+    |   |    ├─── script.js
+    |   |    └─── README.md
+    |   |
+    |   └─── Day 15 - Pacman Game
     |        ├─── screenshots
-    |        |    └─── login-form.png
-    |        ├─── index.html
-    |        ├─── style.css
-    |        ├─── script.js
+    |        |    └─── pacman.png
+    |        ├─── main.py
     |        └─── README.md
     |
     ├── LICENSE

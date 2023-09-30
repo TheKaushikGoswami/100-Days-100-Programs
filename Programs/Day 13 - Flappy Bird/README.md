@@ -21,6 +21,7 @@ A simple implementation of the popular Flappy Bird game using Python and Pygame.
 ## Usage
 
 1. Navigate to the project directory:
+
     ```shell
     cd Day 13 - Flappy Bird
     ```
